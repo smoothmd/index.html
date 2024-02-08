@@ -26,6 +26,19 @@
     </style>
 </head> 
 <body>
+<nav>  
+<ul>  
+<li>  
+<a href="#"> Homepage </a>  
+</li>  
+<li>  
+<a href="#"> Resume </a>  
+</li>  
+<li>  
+<a href="#"> contact me</a>  
+</li>  
+</ul>  
+</nav> 
 <h1> About me </h1> 
 <p>I go to Madonna and I'm on the track team</p></br>
 
