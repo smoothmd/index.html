@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Bar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <button><a href="#home">Homepage</a></button>
+        <button><a href="#about me">About me</a></button>
+        <button><a href="#Resume">Resume</a></button>
+    </div>
+
+<main>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Name</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Contact me</h1>
+    <form>
+       <label for="fname">Name:</label><br>
+       <input type="text" id="fname" name="fname"><br>
+       <h3></h3>
+       <label for="lname">Email:</label><br>
+       <input type="text" id="lname" name="lname"> 
+       <h3></h3>
+       <label for="fname">Subject:</label><br>
+       <input type="text" id="fname" name="fname"><br>
+       <h3></h3>
+       <label for="fname">Message:</label><br>
+       <input type="text" id="fname" name="fname"><br>
+       <input type="submit" value="Submit">
+    </form>
+</body>
+<main>
+</html>
